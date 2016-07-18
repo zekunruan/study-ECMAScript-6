@@ -1,4 +1,4 @@
-# 实践ECMAScript-6
+# 实践ECMAScript-6 
 ###译者：Barret李靖
 ###链接：http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/
 ###原文：https://github.com/metagrover/ES6-for-humans
